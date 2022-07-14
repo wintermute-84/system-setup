@@ -1,3 +1,5 @@
+![image](assets/screen.jpg)
+
 ### 🚀 Finder
 
 - `Preferences -> General -> Show Hard Disks`
@@ -14,6 +16,7 @@
 ### 🌍 WEB
 
 - Firefox `brew install --cask firefox`
+  - Google Chrome Dark theme
   - Custom New Tab Page 
     - [My StartPage](https://wintermute-84.github.io/bento/)
   - AdGuard
@@ -68,12 +71,14 @@
 - [neofetch](https://github.com/dylanaraps/neofetch) `brew install neofetch`
 - [wifi-password](https://github.com/rauchg/wifi-password)  `brew install wifi-password`
 - [exa](https://github.com/ogham/exa) - `ls` replacement `brew install exa`
+- [imgcat](https://github.com/eddieantonio/imgcat) - `brew install eddieantonio/eddieantonio/imgcat`
 - [NeoVim](https://neovim.io/) `brew install neovim`
 - [Oh-My-Zsh](https://github.com/ohmyzsh/ohmyzsh)
   - `brew install zsh zsh-completions`
   - `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
   - `chsh -s /bin/zsh`
-- [cmatrix](#) `brew install cmatrix`
+- [cmatrix](https://github.com/abishekvashok/cmatrix/) `brew install cmatrix`
+- [typioca](https://github.com/bloznelis/typioca) `brew install bloznelis/tap/typioca`
 - [TTY-Clock](https://www.carta.tech/man-pages/man1/tty-clock.1.html) `brew install tty-clock`
 - [htop](https://github.com/htop-dev/htop) `brew install htop` (gtop / btop)
 
