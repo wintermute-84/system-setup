@@ -79,6 +79,7 @@
   - `chsh -s /bin/zsh`
 - [cmatrix](https://github.com/abishekvashok/cmatrix/) `brew install cmatrix`
 - [typioca](https://github.com/bloznelis/typioca) `brew install bloznelis/tap/typioca`
+- [Terminal Clock](https://github.com/wintermute-84/clock)
 - [TTY-Clock](https://www.carta.tech/man-pages/man1/tty-clock.1.html) `brew install tty-clock`
 - [htop](https://github.com/htop-dev/htop) `brew install htop` (gtop / btop)
 
