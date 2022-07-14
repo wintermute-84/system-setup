@@ -13,8 +13,8 @@
 
 ### 🌍 WEB
 
-- Firefox
-  - [StartPage](https://wintermute-84.github.io/bento/)
+- Firefox `brew install --cask firefox`
+  - Custom New Tab Page [My StartPage](https://wintermute-84.github.io/bento/)
   - AdGuard
   - XDebug Helper
   - ClearURLs
@@ -40,16 +40,23 @@
 - [Postman](https://www.postman.com/)
 - [VSCodium](https://github.com/VSCodium/vscodium)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+  - [warden multi-arch](https://github.com/drpayyne/warden-multi-arch)
+  - [warden](https://github.com/davidalger/warden)
+  - [docker-compose](#) `brew install docker-compose`
 - [Spark](https://sparkmailapp.com/)
 - [UTM](https://getutm.app/install/)
 
-### Unix Utils
+### 🍺 Unix Utils
 
-- [brew](https://brew.sh/)
-- [exa](https://github.com/ogham/exa) - ls replacement
-- [NeoVim](https://neovim.io/)
-- [Oh-My-Zsh](https://ohmyz.sh/)
-- [cmatrix](#)
-- [TTY-Clock](https://www.carta.tech/man-pages/man1/tty-clock.1.html)
+- [brew](https://brew.sh/) `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+- [exa](https://github.com/ogham/exa) - ls replacement `brew install exa`
+- [NeoVim](https://neovim.io/) `brew install neovim`
+- [Oh-My-Zsh](https://github.com/ohmyzsh/ohmyzsh)
+  - `brew install zsh zsh-completions`
+  - `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+  - `chsh -s /bin/zsh`
+- [cmatrix](#) `brew install cmatrix`
+- [TTY-Clock](https://www.carta.tech/man-pages/man1/tty-clock.1.html) `brew install tty-clock`
+- [htop](https://github.com/htop-dev/htop) `brew install htop`
 
 
