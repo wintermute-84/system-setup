@@ -12,6 +12,8 @@
 - Disable disc warning (must restart Mac to take effect): `sudo defaults write /Library/Preferences/SystemConfiguration/com.apple.DiskArbitration.diskarbitrationd.plist DADisableEjectNotification -bool YES && sudo pkill diskarbitrationd`
 - Re-enable disc warning: `sudo defaults delete /Library/Preferences/SystemConfiguration/com.apple.DiskArbitration.diskarbitrationd.plist DADisableEjectNotification && sudo pkill diskarbitrationd`
 - Ejectify alternative: https://ejectify.app
+- Add spacer to the Dock
+`defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="small-spacer-tile";}' && killall Dock`
 
 ### 🌍 WEB
 
