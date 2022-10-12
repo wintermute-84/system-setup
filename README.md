@@ -17,6 +17,7 @@
 
 ### 🌍 WEB
 
+- [Spark](https://sparkmailapp.com/)
 - Firefox `brew install --cask firefox`
   - Google Chrome Dark theme
   - Custom New Tab Page 
@@ -25,6 +26,8 @@
   - XDebug Helper
   - ClearURLs
   - Decentraleyes
+- [MenuBarX](https://menubarx.app/) menu browser
+- [TempBox](https://github.com/devwaseem/TempBox) temp email addresses
 
 ### 🎨️ Utils
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
@@ -39,6 +42,8 @@
 - [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12)
 - [ImgOptim](https://imageoptim.com/mac)
 - [IINA](https://iina.io/) `brew install --cask iina`
+- [Quiet Reader](https://quietreader.app/)
+- [Hovrly](https://hovrly.com/)
 
 ### 📡 Coms
 
@@ -62,7 +67,6 @@
   - [warden multi-arch](https://github.com/drpayyne/warden-multi-arch)
   - [warden](https://github.com/davidalger/warden)
   - [docker-compose](#) `brew install docker-compose`
-- [Spark](https://sparkmailapp.com/)
 - [UTM](https://getutm.app/install/)
 - [Linear](https://linear.app/download)
 
