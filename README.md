@@ -44,6 +44,9 @@
 - [IINA](https://iina.io/) `brew install --cask iina`
 - [Quiet Reader](https://quietreader.app/)
 - [Hovrly](https://hovrly.com/)
+- [Shottr](https://shottr.cc/)
+- [BalenaEtcher](https://www.balena.io/etcher/)
+- [DropOver](https://dropoverapp.com/)
 
 ### 📡 Coms
 
