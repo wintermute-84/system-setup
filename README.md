@@ -47,6 +47,7 @@
 - [Shottr](https://shottr.cc/)
 - [BalenaEtcher](https://www.balena.io/etcher/)
 - [DropOver](https://dropoverapp.com/)
+- [OnyX](https://www.titanium-software.fr/en/onyx.html)
 
 ### 📡 Coms
 
