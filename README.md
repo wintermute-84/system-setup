@@ -48,6 +48,7 @@
 - [BalenaEtcher](https://www.balena.io/etcher/)
 - [DropOver](https://dropoverapp.com/)
 - [OnyX](https://www.titanium-software.fr/en/onyx.html)
+- [SSSS](http://point-at-infinity.org/ssss/) `brew install ssss`
 
 ### 📡 Coms
 
