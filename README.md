@@ -48,7 +48,6 @@
 - [BalenaEtcher](https://www.balena.io/etcher/)
 - [DropOver](https://dropoverapp.com/)
 - [OnyX](https://www.titanium-software.fr/en/onyx.html)
-- [SSSS](http://point-at-infinity.org/ssss/) `brew install ssss`
 
 ### 📡 Coms
 
@@ -93,5 +92,6 @@
 - [Terminal Clock](https://github.com/wintermute-84/clock)
 - [TTY-Clock](https://www.carta.tech/man-pages/man1/tty-clock.1.html) `brew install tty-clock`
 - [htop](https://github.com/htop-dev/htop) `brew install htop` (gtop / btop)
+- [SSSS](http://point-at-infinity.org/ssss/) `brew install ssss`
 
 
