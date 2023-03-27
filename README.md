@@ -21,7 +21,7 @@
 - Firefox `brew install --cask firefox`
   - Google Chrome Dark theme
   - Custom New Tab Page 
-    - [My StartPage](https://wintermute-84.github.io/bento/)
+     - [My StartPage](https://wintermute-84.github.io/bento/)
   - AdGuard
   - XDebug Helper
   - ClearURLs
@@ -30,6 +30,9 @@
 - [TempBox](https://github.com/devwaseem/TempBox) temp email addresses
 
 ### 🎨️ Utils
+- [Obsidian](https://obsidian.md/) Notes
+    - Minimal Theme
+    - [Obsidian Git](https://github.com/denolehov/obsidian-git)
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
 - [CotEditor](https://github.com/coteditor/CotEditor)
 - [ColorSlurp](https://colorslurp.com/)
@@ -37,7 +40,7 @@
 - [CakeBrew](https://github.com/brunophilipe/Cakebrew)
 - [Unarchiver](https://apps.apple.com/us/app/the-unarchiver/id425424353?mt=12)
 - [iTerm2](https://iterm2.com/) 
-  - https://github.com/wintermute-84/iterm-conf
+    - https://github.com/wintermute-84/iterm-conf
 - [CopyClip](https://apps.apple.com/us/app/copyclip-clipboard-history/id595191960?mt=12)
 - [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12)
 - [ImgOptim](https://imageoptim.com/mac)
