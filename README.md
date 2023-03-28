@@ -30,6 +30,7 @@
 - [TempBox](https://github.com/devwaseem/TempBox) temp email addresses
 
 ### 🎨️ Utils
+- [AltTab](https://alt-tab-macos.netlify.app/)
 - [Obsidian](https://obsidian.md/) Notes
     - Minimal Theme
     - [Obsidian Git](https://github.com/denolehov/obsidian-git)
@@ -61,7 +62,7 @@
 
 ### 👺 Dev
 - [PHPStorm](https://www.jetbrains.com/phpstorm/download/#section=mac)
-- [php](php.net) 
+- [php](https://php.net) 
   - `brew tap shivammathur/php`
   - `brew install shivammathur/php/php@8.0`
   - `echo 'export PATH="/opt/homebrew/opt/php@8.0/bin:$PATH"' >> ~/.zshrc`
