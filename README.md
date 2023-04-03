@@ -42,7 +42,7 @@
 - [Unarchiver](https://apps.apple.com/us/app/the-unarchiver/id425424353?mt=12)
 - [iTerm2](https://iterm2.com/) 
     - https://github.com/wintermute-84/iterm-conf
-- [CopyClip](https://apps.apple.com/us/app/copyclip-clipboard-history/id595191960?mt=12)
+- [Maccy](https://maccy.app/) Clipboard Manager, Replaces [CopyClip](https://apps.apple.com/us/app/copyclip-clipboard-history/id595191960?mt=12)
 - [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12)
 - [ImgOptim](https://imageoptim.com/mac)
 - [IINA](https://iina.io/) `brew install --cask iina`
