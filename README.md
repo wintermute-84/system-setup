@@ -40,8 +40,6 @@
 - [Folx](https://mac.eltima.com/folx-download.html) `brew install --cask folx`
 - [CakeBrew](https://github.com/brunophilipe/Cakebrew)
 - [Unarchiver](https://apps.apple.com/us/app/the-unarchiver/id425424353?mt=12)
-- [iTerm2](https://iterm2.com/) 
-    - https://github.com/wintermute-84/iterm-conf
 - [Maccy](https://maccy.app/) Clipboard Manager, Replaces [CopyClip](https://apps.apple.com/us/app/copyclip-clipboard-history/id595191960?mt=12)
 - [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12)
 - [ImgOptim](https://imageoptim.com/mac)
@@ -52,6 +50,14 @@
 - [BalenaEtcher](https://www.balena.io/etcher/)
 - [DropOver](https://dropoverapp.com/)
 - [OnyX](https://www.titanium-software.fr/en/onyx.html)
+
+### 💾 Terminal
+- [iTerm2](https://iterm2.com/) 
+    - https://github.com/wintermute-84/iterm-conf
+- [ZSH Outosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
+- [Powerlevel10k Theme](https://github.com/romkatv/powerlevel10k)
+- [Fuzzy Finder fzf](https://github.com/junegunn/fzf)
+- [Z](https://github.com/agkozak/zsh-z)
 
 ### 📡 Coms
 
